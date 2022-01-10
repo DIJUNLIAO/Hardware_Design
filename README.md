@@ -1,5 +1,5 @@
 # Hardware Design
-My Learning note for hardware design (under development). ***Books*** includes all e-books and read list when I study electrical and electronic engineering. ***Notes*** includes all learning notes when I study system engineering. <br>
+My Learning note for hardware design (under development). ***Books*** includes all e-books and read list when I study electrical and electronic engineering. Those folders that has specified course name includes all learning notes of this course when I study. <br>
 <br>
 Most of this part are my BEng courses lecture notes (I deleted example parts in my notes and made some modifications). If there still have some error, please cotact me.
 <br><br>
