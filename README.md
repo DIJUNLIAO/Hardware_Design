@@ -4,5 +4,7 @@ My Learning note for hardware design (under development). ***Books*** includes a
 I'll keep updating, following is a contents of this repository:
 
 ## Contents
-### Overview
-[PART 1](https://github.com/DIJUNLIAO)
+### Electrical Circuits I
+[Basic Introduction](https://github.com/DIJUNLIAO)
+[Circuit Elements]()
+[Basic Laws of Circuits]()
