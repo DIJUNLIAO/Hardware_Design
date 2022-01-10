@@ -6,5 +6,5 @@ I'll keep updating, following is a contents of this repository:
 ## Contents
 ### Electrical Circuits I
 [Basic Introduction](https://github.com/DIJUNLIAO)
-[Circuit Elements]()
-[Basic Laws of Circuits]()
+<br>[Circuit Elements]()
+<br>[Basic Laws of Circuits]()
