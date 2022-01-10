@@ -5,6 +5,7 @@ I'll keep updating, following is a contents of this repository:
 
 ## Contents
 ### Electrical Circuits I
-[Basic Introduction](https://github.com/DIJUNLIAO)
+Most of this part are from my BEng courses lecture note (I deleted example parts in my note and made some modify).
+<br>[Basic Introduction](https://github.com/DIJUNLIAO)
 <br>[Circuit Elements]()
 <br>[Basic Laws of Circuits]()
